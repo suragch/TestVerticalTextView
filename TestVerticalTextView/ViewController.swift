@@ -7,7 +7,6 @@ class ViewController: UIViewController {
     // MARK:- Outlets
     @IBOutlet weak var inputWindow: UIVerticalTextView!
     @IBOutlet weak var topContainerView: UIView!
-    //@IBOutlet weak var keyboardContainer: KeyboardController!
     @IBOutlet weak var inputWindowHeightConstraint: NSLayoutConstraint!
     @IBOutlet weak var inputWindowWidthConstraint: NSLayoutConstraint!
     
